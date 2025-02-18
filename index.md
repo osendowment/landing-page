@@ -12,7 +12,7 @@ The Open Source Endowment is inspired by diverse ideas, including the [parallels
 * **🔎 Radical Transparency**: Publishes key internal data whenever possible, balancing openness with privacy
 * **👥 People-First**: Champions inclusive, community-led governance, focusing on passionate individuals over corporations
 * **🧠 SMART Goals**: Uses an endowment model to achieve measurable, long-term objectives requiring regular funding
-* **🕸️ Decentralized**: Maintains diversity of donors and contributors, where every contribution matters
+* **🕸️ Decentralized**: Maintains a highly diversified funding base, ensuring that every donation matters.
 * **⚖️ Neutrality**: Remains independent from political or corporate influence, ensuring unbiased, mission-driven funding
 
 ## Join us!
