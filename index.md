@@ -5,7 +5,7 @@ We are a collective of tech founders, executives, venture investors, and softwar
 3. **🚀 Scalable**: Operates as an efficient next-gen charity designed for scale, not a like a typical non-profit foundation
 
 ## Our principles
-The Open Source Endowment is inspired by diverse ideas, including the parallels between OSS and research universities and a data-driven approach to open-source funding. While we will reveal full details soon, these core principles guide our project:
+The Open Source Endowment is inspired by diverse ideas, including the [parallels between OSS and the best research universities](kvinogradov.com/oss-universities) and a [data-driven approach to open-source donations](https://kvinogradov.com/algo-sponsors/). While we will reveal full details later, these core principles guide our project:
 
 * **🤖 Digital-first**: Operates like a lean tech startup, maximizing automation and minimizing unnecessary overhead
 * **🌍 Global Outlook**: Supports the entire global open-source ecosystem, not just specific countries or regions
@@ -16,4 +16,4 @@ The Open Source Endowment is inspired by diverse ideas, including the parallels 
 * **⚖️ Neutrality**: Remains independent from political or corporate influence, ensuring unbiased, mission-driven funding
 
 ## Join us!
-If you’re concerned that the modern world depends on open-source software maintained unsustainably — a vital public good caught in the tragedy of the commons — and you’re ready to co-fund a promising solution to this issue, we’d love to connect! Please emails us at donors@endowment.dev with a few words about yourself.
+If you’re concerned that the modern world depends on open-source software maintained unsustainably — a vital public good suffering from the tragedy of the commons — and you’re ready to co-fund a promising solution to this issue, we’d love to connect! Please emails us at donors@endowment.dev with a few words about yourself.
