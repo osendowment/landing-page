@@ -12,7 +12,7 @@ Open Source Endowment Foundation is a U.S. nonprofit corporation incorporated on
 * **🤖 Digital-first**: Operate like a lean tech startup, maximizing automation and minimizing unnecessary overhead
 * **🌍 Global Outlook**: Support the entire global open source ecosystem, not just specific countries or regions
 * **🔎 Radical Transparency**: Publish key internal data whenever possible, balancing openness with privacy
-* **👥 People-First**: Champion inclusive, community-led governance, focusing on passionate individuals over corporations
+* **👥 People-First**: Build inclusive, community-driven governance system, focusing on passionate individuals over corporations
 * **🧠 SMART Goals**: Use an [endowment model](https://en.wikipedia.org/wiki/Financial_endowment) to achieve measurable, long-term objectives requiring regular funding
 * **🕸️ Decentralized**: Maintain a highly diversified funding base, ensuring that every donation matters.
 * **⚖️ Neutrality**: Remain independent from political or corporate influence, ensuring unbiased, mission-driven funding
