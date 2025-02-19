@@ -1,12 +1,12 @@
 <script src="posthog.js"></script>
-We are a collective of tech founders, executives, venture investors, and software engineers who have created the first-ever Open Source Endowment. Our mission is to provide open source maintainers with a new non-profit source of funding that is:
+We are a collective of tech founders, executives, venture investors, and software engineers who have created the first-ever Open Source Endowment. Our mission is to provide open source maintainers with a new nonprofit source of funding that is:
 
 1. **🌱 Sustainable**: Ensures long-term, predictable cash flow, independent of economic and political volatility
 2. **🔗 Systemic**: Prioritizes critical yet underfunded OSS, rather than large/popular ones or specific supply chains
 3. **🚀 Scalable**: Operates as an efficient next-gen charity designed for scale, not a like a typical non-profit foundation
 
 ## Our principles
-The Open Source Endowment is inspired by diverse ideas, including the [parallels between OSS and the best research universities](https://kvinogradov.com/oss-universities) and a [data-driven approach to open-source donations](https://kvinogradov.com/algo-sponsors/). While we will reveal full details later, these core principles guide our project:
+Open Source Endowment Foundation is a U.S. nonprofit corporation incorporated on February 14, 2025. It is inspired by diverse ideas, including the [parallels between OSS and the best research universities](https://kvinogradov.com/oss-universities) and a [data-driven approach to open-source donations](https://kvinogradov.com/algo-sponsors/). We will reveal full details later and for now can share core principles guiding its work:
 
 * **🤖 Digital-first**: Operate like a lean tech startup, maximizing automation and minimizing unnecessary overhead
 * **🌍 Global Outlook**: Support the entire global open-source ecosystem, not just specific countries or regions
