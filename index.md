@@ -7,7 +7,7 @@ We are a collective of tech founders, executives, venture investors, and softwar
 3. **🚀 Scalable**: Operates as an efficient next-gen charity designed for scale, not a like a typical non-profit foundation
 
 ## Our principles
-Open Source Endowment Foundation is a U.S. nonprofit corporation incorporated on February 14, 2025. It is inspired by diverse ideas, including the [parallels between OSS and the best research universities](https://kvinogradov.com/oss-universities) and a [data-driven approach to open-source donations](https://kvinogradov.com/algo-sponsors/). We will reveal full details later and for now are pleasted to share core principles guiding its work:
+Open Source Endowment Foundation is a U.S. nonprofit corporation incorporated on February 14, 2025. It is inspired by diverse ideas, including the [parallels between OSS and the best research universities](https://kvinogradov.com/oss-universities) and a [data-driven approach to open-source donations](https://kvinogradov.com/algo-sponsors/). We will reveal full details later and for now are pleased to share core principles guiding its work:
 
 * **🤖 Digital-first**: Operate like a lean tech startup, maximizing automation and minimizing unnecessary overhead
 * **🌍 Global Outlook**: Support the entire global open-source ecosystem, not just specific countries or regions
