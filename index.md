@@ -18,4 +18,4 @@ Open Source Endowment Foundation is a U.S. nonprofit corporation incorporated on
 * **⚖️ Neutrality**: Remain independent from political or corporate influence, ensuring unbiased, mission-driven funding
 
 ## Join us!
-If you’re concerned that the modern world depends on open-source software maintained unsustainably — a vital public good suffering from the tragedy of the commons — and you’re ready to co-fund a promising solution to this issue, we’d love to connect! Please emails us at [donors@endowment.dev](mailto:donors@endowment.dev) with a few words about yourself.
+If you’re concerned that the modern world depends on open-source software maintained unsustainably — a vital public good suffering from the tragedy of the commons — and you’re ready to co-fund a promising solution to this issue, we’d love to connect! Please email us at [donors@endowment.dev](mailto:donors@endowment.dev) with a few words about yourself.
