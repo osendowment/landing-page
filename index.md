@@ -1,4 +1,5 @@
 <script src="posthog.js"></script>
+<script src="openpanel.js"></script>
 We are a collective of tech founders, executives, venture investors, and software engineers who have created the first-ever Open Source Endowment. Our mission is to provide open source maintainers with a new nonprofit source of funding that is:
 
 1. **🌱 Sustainable**: Ensures long-term, predictable cash flow, independent of economic and political volatility
