@@ -1,2 +1,3 @@
 title: "Open Source Endowment"
 author: "Open Source Endowment Foundation"
+include: ["posthog.js"]
