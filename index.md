@@ -20,7 +20,7 @@ Open Source Endowment Foundation is a U.S. nonprofit corporation incorporated on
 ## Join us
 If you’re concerned that the modern world depends on open source software maintained unsustainably — a vital public good suffering from the tragedy of the commons — and you’re ready to co-fund a promising solution to this issue, let's connect! Please email us at [donors@endowment.dev](mailto:donors@endowment.dev) with a few words about yourself. We already have 20+ co-founding donors and plan to continue acquiring new ones for some time.
 
-## Donate to the endowment fund
+## Donate to our endowment fund
 
 ### Bank wires
 - [Request bank details for a US bank](mailto:donors@endowment.dev?subject=Please%20share%20bank%20details) (0% fees)
