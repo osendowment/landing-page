@@ -27,6 +27,6 @@ If you’re concerned that the modern world depends on open source software main
 - [Request bank details for an internaitonal bank](mailto:donors@endowment.dev?subject=Please%20share%20bank%20details) (0% fees)
 
 ### Card / Apple Pay / Etc
-- [Donate via Stripe](https://buy.stripe.com/4gwdTs9zk0VI7F67ss) (4.7% fee for now)
+- [Donate via Stripe](https://buy.stripe.com/4gwdTs9zk0VI7F67ss) (2.9% fee)
 - [Donate via Paypal](https://www.paypal.com/donate/?hosted_button_id=JBYBVSHCC9U8N) (4.9% fee for now)
 - [Sponsor via GitHub Sponsors](https://github.com/sponsors/osendowment) (6% fee = 3% card processing + 3% GitHub)
