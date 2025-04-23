@@ -1,13 +1,13 @@
 <script src="posthog.js"></script>
-<script src="openpanel.js"></script><script src="https://openpanel.dev/op1.js" defer async></script>
 We are a collective of tech founders, executives, venture investors, and software engineers who are building the first-ever Open Source Endowment. Our goal is to provide open source maintainers with a new source of nonprofit funding that is:
 
 1. **🌱 Sustainable**: Ensures long-term, predictable cash flow, independent of economic and political volatility
 2. **🔗 Systemic**: Prioritizes critical yet underfunded OSS, rather than large/popular ones or specific supply chains
 3. **🚀 Scalable**: Operates as an efficient next-gen charity designed for scale, not a like a typical non-profit foundation
 
+
 ## Our principles
-Open Source Endowment Foundation is a U.S. nonprofit corporation incorporated on February 14, 2025. It is inspired by diverse ideas, including the [parallels between OSS and the best research universities](https://kvinogradov.com/oss-universities) and a [data-driven approach to open-source donations](https://kvinogradov.com/algo-sponsors/). We will reveal full details later and for now are pleased to share core principles guiding its work:
+Open Source Endowment Foundation is a U.S. nonprofit corporation incorporated on February 14, 2025. It is inspired by diverse ideas, including the [open source sustainability issues](https://openpath.quest/2024/the-open-source-sustainability-crisis/), [parallels between OSS and the best research universities](https://kvinogradov.com/oss-universities), and a [data-driven approach to OSS donations](https://kvinogradov.com/algo-sponsors/). We will reveal full details later and for now are pleased to share core principles guiding its work:
 
 * **🤖 Digital-first**: Operate like a lean tech startup, maximizing automation and minimizing unnecessary overhead
 * **🌍 Global Outlook**: Support the entire global open source ecosystem, not just specific countries or regions
@@ -17,5 +17,28 @@ Open Source Endowment Foundation is a U.S. nonprofit corporation incorporated on
 * **🕸️ Decentralized**: Maintain a highly diversified funding base, ensuring that every donation matters.
 * **⚖️ Neutrality**: Remain independent from political or corporate influence, ensuring unbiased, mission-driven funding
 
-## Join us!
-If you’re concerned that the modern world depends on open source software maintained unsustainably — a vital public good suffering from the tragedy of the commons — and you’re ready to co-fund a promising solution to this issue, we’d love to connect! Please email us at [donors@endowment.dev](mailto:donors@endowment.dev) with a few words about yourself.
+## Join us
+If you’re concerned that the modern world depends on open source software maintained unsustainably — a vital public good suffering from the tragedy of the commons — and you’re ready to co-fund a promising solution to this issue, let's connect! Please email us at [donors@endowment.dev](mailto:donors@endowment.dev) with a few words about yourself. We already have 20+ co-founding donors and plan to continue acquiring new ones for some time.
+
+## Donate to the endowment fund
+
+### US bank wire (0% fees)
+- Beneficiary Name: Open Source Endowment Foundation
+- Beneficiary Address: 1209 Orange Street, Wilmington, DE 19801
+- Type of Account: Checking
+- Account Number: 202527873980
+- ABA Routing Number: 091311229
+- Bank Name: Choice Financial Group
+- Bank Address: 4501 23rd Avenue S, Fargo, ND 58104
+
+### International bank wire (0% fees)
+- Beneficiary Name: Open Source Endowment Foundation
+- Beneficiary Address: 1209 Orange Street, Wilmington, DE 19801
+- SWIFT / BIC Code: CHFGUS44021
+- ABA Routing Number: 091311229
+- IBAN / Account Number: 202527873980
+- Bank Name: Choice Financial Group
+- Bank Address: 4501 23rd Avenue S, Fargo, ND 58104
+
+### Card / Apple Pay / Etc (4.7% fee for now)
+- https://buy.stripe.com/4gwdTs9zk0VI7F67ss
