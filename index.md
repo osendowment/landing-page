@@ -40,5 +40,7 @@ If you’re concerned that the modern world depends on open source software main
 - Bank Name: Choice Financial Group
 - Bank Address: 4501 23rd Avenue S, Fargo, ND 58104
 
-### Card / Apple Pay / Etc (4.7% fee for now)
-- https://buy.stripe.com/4gwdTs9zk0VI7F67ss
+### Card / Apple Pay / Etc
+- [Donate via Stripe](https://buy.stripe.com/4gwdTs9zk0VI7F67ss) (4.7% fee for now)
+- [Donate via Paypal](https://www.paypal.com/donate/?hosted_button_id=JBYBVSHCC9U8N) (4.9% fee for now)
+- [Sponsor via GitHub Sponsors](https://github.com/sponsors/osendowment) (6% fee = 3% card processing + 3% GitHub)
