@@ -1,7 +1,16 @@
 title: "Open Source Endowment"
 author: "Open Source Endowment Foundation"
-include: ["posthog.js"]
 url: "https://endowment.dev"
+
+# SEO & Analytics 
+google-analytics: G-XE63Z4PW8X
+include: ["posthog.js"]
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-analytics
+
+# Social
 twitter:
   username: "osendowment"
 social:
@@ -11,11 +20,11 @@ social:
     - "https://x.com/osendowment"
     - "https://fb.com/osendowment"
     - "https://github.com/osendowment"
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-analytics
 favicon:
   standard: /img/favicon.ico
   apple_touch: /img/apple-touch-icon.png
   android_icon: /img/icon-192.png
+
+
+
+
