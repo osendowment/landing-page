@@ -3,7 +3,7 @@ author: "Open Source Endowment Foundation"
 url: "https://endowment.dev"
 
 # SEO & Analytics 
-google-analytics: G-XE63Z4PW8X
+google_tag_manager: G-XE63Z4PW8X
 include: ["posthog.js"]
 plugins:
   - jekyll-sitemap
