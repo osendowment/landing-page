@@ -10,6 +10,10 @@ plugins:
   - jekyll-seo-tag
   - jekyll-analytics
 
+jekyll_analytics:
+  GoogleAnalytics:          
+    id: G-XE63Z4PW8X
+
 # Social
 twitter:
   username: "osendowment"
