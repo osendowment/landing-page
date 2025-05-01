@@ -4,7 +4,7 @@ url: "https://endowment.dev"
 
 # SEO & Analytics 
 google_tag_manager: G-XE63Z4PW8X
-include: ["posthog.js"]
+include: ["posthog.js", "https://www.googletagmanager.com/gtag/js?id=G-XE63Z4PW8X", "gtag.js"]
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
